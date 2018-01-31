@@ -9,7 +9,6 @@
 <p><span style="color:#000000">效果图博客查看： </span></p> 
 <p>&nbsp;<a href="https://my.oschina.net/zhangqie/blog/849045" target="_blank" rel="nofollow">Universal-Image-Loader图片加载框架和结合LruCache缓存图片 </a></p> 
 <p>&nbsp;</p> 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img alt="" src="https://static.oschina.net/uploads/img/201703/02212445_aUC3.gif"></p> 
 <p>&nbsp;</p> 
 <p>由效果图可以看到第一次加载和第二次加载是不一样的，第一次加载是从服务器端获取，其中将他缓存了下来，第二次加载时就会和第一次加载比较，相同的就从缓存中获取，新的图片则重新到服务器端获取，从而提高效率，减少用户流量。</p> 
 <p>&nbsp;</p> 
