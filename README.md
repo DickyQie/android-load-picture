@@ -6,8 +6,8 @@
 <p>Universal-Image-Loader源码分析：<a href="https://github.com/nostra13/Android-Universal-Image-Loader" target="_blank" rel="nofollow">https://github.com/nostra13/Android-Universal-Image-Loader</a></p> 
 <p>jar包下载：<a href="http://download.csdn.net/detail/dickyqie/9768781" rel="nofollow">Universal-Image-Loader.jar下载</a></p> 
 <p>&nbsp;</p> 
-<p><span style="color:#000000">效果图：</span></p> 
-<p>&nbsp;</p> 
+<p><span style="color:#000000">效果图博客查看： </span></p> 
+<p>&nbsp;<a href="https://my.oschina.net/zhangqie/blog/849045" target="_blank" rel="nofollow">Universal-Image-Loader图片加载框架和结合LruCache缓存图片 </a></p> 
 <p>&nbsp;</p> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <img alt="" src="https://static.oschina.net/uploads/img/201703/02212445_aUC3.gif"></p> 
 <p>&nbsp;</p> 
